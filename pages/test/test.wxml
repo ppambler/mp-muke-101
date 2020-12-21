@@ -1,0 +1,4 @@
+<!--pages/test/test.wxml-->
+<view>我是静态界面元素</view>
+<view>{{content}}</view>
+<button bindtap='clickEvent' >点我触发事件</button>
